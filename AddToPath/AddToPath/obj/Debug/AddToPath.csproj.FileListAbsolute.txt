@@ -1,0 +1,8 @@
+C:\Users\Awire\source\repos\smartboardmimic\AddToPath\AddToPath\bin\Debug\AddToPath.exe.config
+C:\Users\Awire\source\repos\smartboardmimic\AddToPath\AddToPath\bin\Debug\AddToPath.exe
+C:\Users\Awire\source\repos\smartboardmimic\AddToPath\AddToPath\bin\Debug\AddToPath.pdb
+C:\Users\Awire\source\repos\smartboardmimic\AddToPath\AddToPath\obj\Debug\AddToPath.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\smartboardmimic\AddToPath\AddToPath\obj\Debug\AddToPath.csproj.SuggestedBindingRedirects.cache
+C:\Users\Awire\source\repos\smartboardmimic\AddToPath\AddToPath\obj\Debug\AddToPath.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\smartboardmimic\AddToPath\AddToPath\obj\Debug\AddToPath.exe
+C:\Users\Awire\source\repos\smartboardmimic\AddToPath\AddToPath\obj\Debug\AddToPath.pdb
